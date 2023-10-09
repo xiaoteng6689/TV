@@ -16,7 +16,7 @@
 
 "wallpaper": "https://source.unsplash.com/random",
 "lives":[{"name":"live","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-"spider": "http://tv.ak47s.eu.org/20230808.jar",
+"spider": "https://agit.ai/xiaotengdGO9/TVBox/raw/branch/master/jar/20231001.jar",
 
 
 "parses":[
